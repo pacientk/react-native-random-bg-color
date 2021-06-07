@@ -1,4 +1,3 @@
-
 Pod::Spec.new do |s|
   s.name         = "RNReactNativeRandomBgColor"
   s.version      = "1.0.0"
