@@ -6,10 +6,10 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   RNReactNativeRandomBgColor
                    DESC
-  s.homepage     = ""
+  s.homepage     = "https://www.linkedin.com/in/kirill-ter-36850039/"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
-  s.author             = { "author" => "author@domain.cn" }
+  s.author             = { "author" => "kirill.ter@gmail.com" }
   s.platform     = :ios, "7.0"
   s.source       = { :git => "https://github.com/author/RNReactNativeRandomBgColor.git", :tag => "master" }
   s.source_files  = "RNReactNativeRandomBgColor/**/*.{h,m}"
@@ -21,4 +21,3 @@ Pod::Spec.new do |s|
 
 end
 
-  
