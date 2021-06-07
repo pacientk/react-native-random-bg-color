@@ -1,6 +1,6 @@
 {
   "name": "react-native-random-bg-color",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Random Background Color Switch",
   "main": "index.js",
   "scripts": {
